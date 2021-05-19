@@ -45,5 +45,6 @@ Workflow:
 ## Resources
 
 Stand Up Specials used for analysis:
+
 ["Killin' Them Softly" - Dave Chappelle](https://scrapsfromtheloft.com/2017/05/19/dave-chappelle-killin-softly-2000-full-transcript/)
 
