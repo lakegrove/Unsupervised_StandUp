@@ -44,7 +44,11 @@ Workflow:
 
 ## Resources
 
-Stand Up Specials used for analysis:
+Stand Up Specials used for analysis can be found here:
 
-["Killin' Them Softly" - Dave Chappelle](https://scrapsfromtheloft.com/2017/05/19/dave-chappelle-killin-softly-2000-full-transcript/)
+Scraps From The Loft (https://scrapsfromtheloft.com/stand-up-comedy-scripts/)
+
+Ratings used were sourced from:
+
+IMDB (https://www.imdb.com/?ref_=nv_home)
 
