@@ -27,6 +27,8 @@ Workflow:
 ## Technologies Used
 
 - NLTK
+- Corex
+- ScatterText/WordCloud
 - Jupyter Notebook
 - Python
 - Pandas
@@ -39,7 +41,7 @@ Workflow:
 - Unsupervised Learning
 - Dimensionality Reduction
 - Topic Modeling
-- Clustering
+- Recommendation System
 - Visualization
 
 ## Resources
