@@ -46,9 +46,9 @@ Workflow:
 
 Stand Up Specials used for analysis can be found here:
 
-Scraps From The Loft (https://scrapsfromtheloft.com/stand-up-comedy-scripts/)
+Scraps From The Loft(https://scrapsfromtheloft.com/stand-up-comedy-scripts/)
 
 Ratings used were sourced from:
 
-IMDB (https://www.imdb.com/?ref_=nv_home)
+IMDB(https://www.imdb.com/?ref_=nv_home)
 
